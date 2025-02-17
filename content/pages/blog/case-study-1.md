@@ -97,8 +97,6 @@ Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus
 
 ![](/images/img-placeholder.svg)
 
-`<div style="text-decoration:none; overflow:hidden;max-width:100%;width:500px;height:500px;"><div id="my-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="`[`https://www.google.com/maps/embed/v1/place?q=farmacia+rupes&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a`](https://www.google.com/maps/embed/v1/place?q=farmacia+rupes\&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8%22></iframe></span><a) `class="google-maps-html" href="`[`https://www.bootstrapskins.com/themes"`](https://www.bootstrapskins.com/themes%22) `id="enable-map-data">premium bootstrap themes</a><style>#my-map-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>`
-
-
+![](/images/21b251de-7fd4-4257-98e9-e3f4af8a0f95.webp)
 
 Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
